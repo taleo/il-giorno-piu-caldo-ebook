@@ -2,7 +2,7 @@
 
 Prodigio di Malanni Edizioni presenta
 
-![cover](https://github.com/taleo/il-giorno-piu-caldo-ebook/il-giorno-piu-caldo-cover-web.png)
+![cover](https://github.com/taleo/il-giorno-piu-caldo-ebook/blob/master/il-giorno-piu-caldo-cover-web.png)
 
 Edizione digitale
 Formati disponibili
