@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">44</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7d27b74d-c859-4b60-a289-86ce30e58f49</dc:identifier>
+        <dc:title>Il giorno più caldo</dc:title>
+        <dc:creator opf:file-as="Asdrubillah, Oettam" opf:role="aut">Oettam Asdrubillah</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (3.44.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-07-14T22:00:00+00:00</dc:date>
+        <dc:description>Animali totem, spiagge assolate, piercing psichedelici, deja vu, film già visti: tutto questo nel giorno più caldo degli ultimi trecento anni, in una piccola avventura da riviera che si pone il solito trito e ritrito quesito fondamentale: chi siamo?</dc:description>
+        <dc:publisher>Prodigio di Malanni Edizioni</dc:publisher>
+        <dc:language>ara</dc:language>
+        <dc:language>eng</dc:language>
+        <dc:language>ita</dc:language>
+        <meta content="{&quot;Oettam Asdrubillah&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-07-11T09:10:30.596555+00:00" name="calibre:timestamp"/>
+        <meta content="giorno più caldo, Il" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Copertina" type="cover"/>
+    </guide>
+</package>
