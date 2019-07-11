@@ -4,13 +4,7 @@ Prodigio di Malanni Edizioni presenta
 
 ![cover](https://github.com/taleo/il-giorno-piu-caldo-ebook/blob/master/il-giorno-piu-caldo-cover-web.png)
 
-Edizione digitale
-Formati disponibili
-PDF
-EPUB reflowable/fixed
-MOBi
-AZW3
-txt
+Edizione digitale. Formati disponibili: PDF, EPUB reflowable/fixed, MOBI, AZW3, txt
 
 
 Animali totem, spiagge assolate, piercing psichedelici, déjà vu, film già visti: tutto questo nel giorno più caldo degli ultimi trecento anni, in una piccola avventura da riviera che si pone il solito trito e ritrito quesito fondamentale: chi siamo?  
