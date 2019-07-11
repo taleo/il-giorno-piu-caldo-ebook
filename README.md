@@ -2,7 +2,7 @@
 
 Prodigio di Malanni Edizioni presenta
 
-![cover](https://github.com/taleo/il-giorno-piu-caldo-ebook/Il giorno piu caldo/cover.jpg)
+![cover](https://github.com/taleo/il-giorno-piu-caldo-ebook//blob/master/Il giorno piu caldo/cover.jpg)
 
 
 Animali totem, spiagge assolate, piercing psichedelici, déjà vu, film già visti: tutto questo nel giorno più caldo degli ultimi trecento anni, in una piccola avventura da riviera che si pone il solito trito e ritrito quesito fondamentale: chi siamo?  
